@@ -1,0 +1,17 @@
+C:\Users\vergo\source\repos\GitTest\GitTest\bin\Debug\net6.0-windows\GitTest.exe
+C:\Users\vergo\source\repos\GitTest\GitTest\bin\Debug\net6.0-windows\GitTest.deps.json
+C:\Users\vergo\source\repos\GitTest\GitTest\bin\Debug\net6.0-windows\GitTest.runtimeconfig.json
+C:\Users\vergo\source\repos\GitTest\GitTest\bin\Debug\net6.0-windows\GitTest.dll
+C:\Users\vergo\source\repos\GitTest\GitTest\bin\Debug\net6.0-windows\GitTest.pdb
+C:\Users\vergo\source\repos\GitTest\GitTest\obj\Debug\net6.0-windows\GitTest.csproj.AssemblyReference.cache
+C:\Users\vergo\source\repos\GitTest\GitTest\obj\Debug\net6.0-windows\GitTest.Form1.resources
+C:\Users\vergo\source\repos\GitTest\GitTest\obj\Debug\net6.0-windows\GitTest.csproj.GenerateResource.cache
+C:\Users\vergo\source\repos\GitTest\GitTest\obj\Debug\net6.0-windows\GitTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vergo\source\repos\GitTest\GitTest\obj\Debug\net6.0-windows\GitTest.AssemblyInfoInputs.cache
+C:\Users\vergo\source\repos\GitTest\GitTest\obj\Debug\net6.0-windows\GitTest.AssemblyInfo.cs
+C:\Users\vergo\source\repos\GitTest\GitTest\obj\Debug\net6.0-windows\GitTest.csproj.CoreCompileInputs.cache
+C:\Users\vergo\source\repos\GitTest\GitTest\obj\Debug\net6.0-windows\GitTest.dll
+C:\Users\vergo\source\repos\GitTest\GitTest\obj\Debug\net6.0-windows\refint\GitTest.dll
+C:\Users\vergo\source\repos\GitTest\GitTest\obj\Debug\net6.0-windows\GitTest.pdb
+C:\Users\vergo\source\repos\GitTest\GitTest\obj\Debug\net6.0-windows\GitTest.genruntimeconfig.cache
+C:\Users\vergo\source\repos\GitTest\GitTest\obj\Debug\net6.0-windows\ref\GitTest.dll
